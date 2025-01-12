@@ -2,10 +2,11 @@
 안녕하세요. 백엔드 개발자 최나경입니다.
 
 ### 🖊️ Tech Blog
-<img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@imgyeongx-x"> https://velog.io/@imgyeongx-x
+<a href="https://velog.io/@imgyeongx-x"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@imgyeongx-x"> 
 
 ### 🏷️ Contact
-<img src="https://img.shields.io/badge/imgyeong00@gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+<a href="mailto:imgyeong00@gmail.com">
+<img src="https://img.shields.io/badge/imgyeong00@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 
 
 ### 📱 Tech Skills
@@ -31,7 +32,7 @@
 |프로젝트 명|프로젝트 소개|역할|기간|관련 사이트|
 |------|-------|--|--|------|
 |대규모 인파 발생 시 군중 유동성 분석|세계 불꽃놀이 축제 데이터를 이용하여 위험 지역에 대한 군중의 유동성 분석|PM, Data Analyst|2024.09.06-2024.12.06||
-|Festimap|축제와 이벤트 현장에서 실시간으로 인구 혼잡 정보를 제공하여, 사용자가 안전하고 편리하게 축제를 즐길 수 있도록 돕는 어플리케이션|PM|2024.12.20-2024.12.21|테스트5|
+|Festimap|축제와 이벤트 현장에서 실시간으로 인구 혼잡 정보를 제공하여, 사용자가 안전하고 편리하게 축제를 즐길 수 있도록 돕는 어플리케이션|PM|2024.12.20-2024.12.21||
 |산재판례 요약 서비스|법률 비전문가인 산업재해 당사자를 위한 쉽고 요약된 산업재해 판결문 제공 웹서비스|Backend|2024.05.08-2024.07.26|
 
 # 🏫 Experience
