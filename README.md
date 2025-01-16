@@ -20,9 +20,6 @@
 
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=imgyeongx-x&theme=blue-green">
 
 <br>
 
@@ -42,3 +39,9 @@
 - 세종대학교 창의학습 공동체 장려상
 - 세종대학교 중앙동아리 회장
 - 23-2학기 프랑스 EPITA paris 교환학생
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=imgyeongx-x&theme=blue-green">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=imgyeong00)](https://solved.ac/imgyeong00/)
