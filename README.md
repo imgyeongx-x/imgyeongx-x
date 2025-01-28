@@ -35,7 +35,8 @@
 # 🏫 Experience
 - 세종대학교 창의설계 경진대회 대상
 - WE-MEET 프로젝트 (사물 인터넷 분야) 교육부 장관상
-- In-Jeju 챌린지 최우수상 
+- In-Jeju 챌린지 최우수상
+- Global Connect IoT in Switzerland 참여
 - 세종대학교 창의학습 공동체 장려상
 - 세종대학교 중앙동아리 회장
 - 23-2학기 프랑스 EPITA paris 교환학생
