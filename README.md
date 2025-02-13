@@ -41,6 +41,10 @@
 - 세종대학교 중앙동아리 회장
 - 23-2학기 프랑스 EPITA paris 교환학생
 
+# Certificates
+- SW자산뱅크 자산등록증 1건 (ASSET_0012715)
+- AWS Cloud Practitioner
+
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=imgyeongx-x&theme=blue-green">
