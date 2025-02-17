@@ -49,5 +49,3 @@
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=imgyeongx-x&theme=blue-green">
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=imgyeong00)](https://solved.ac/imgyeong00/)
