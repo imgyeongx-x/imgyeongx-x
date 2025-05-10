@@ -5,8 +5,8 @@
 <a href="https://velog.io/@imgyeongx-x"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@imgyeongx-x"> 
 
 ### 🏷️ Contact
-<a href="mailto:imgyeong00@gmail.com">
-<img src="https://img.shields.io/badge/imgyeong00@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+<a href="mailto:nagyeongoiee@gmail.com">
+<img src="https://img.shields.io/badge/nagyeongoiee@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 
 
 ### 📱 Tech Skills
