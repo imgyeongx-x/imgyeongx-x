@@ -28,7 +28,9 @@
 
 |프로젝트 명|프로젝트 소개|역할|기간|관련 사이트|
 |-----|---------------------|--|---|-|
-|대규모 인파 발생 시 군중 유동성 분석|세계 불꽃놀이 축제 데이터를 이용하여 위험 지역에 대한 군중의 유동성 분석&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|PM, Data Analyst|2024.09.06-2024.12.06|https://velog.io/@imgyeongx-x/%EC%BA%A1%EC%8A%A4%ED%86%A4-%ED%9A%8C%EA%B3%A0%EB%A1%9D|
+|대규모 인파 발생 시 군중 유동성 분석|LG U+의 휴대폰 기반 유동인구 데이터를 이용하여,
+세계 불꽃놀이 축제 당시의 데이터를 분석하여 위험 지역에 대한 군중의 유동성 시각화하는 프로젝트입니다.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|PM, Data Analyst|2024.09.06-2024.12.06|https://velog.io/@imgyeongx-x/%EC%BA%A1%EC%8A%A4%ED%86%A4-%ED%9A%8C%EA%B3%A0%EB%A1%9D|
 |Festimap|축제와 이벤트 현장에서 실시간으로 인구 혼잡 정보를 제공하여, 사용자가 안전하고 편리하게 축제를 즐길 수 있도록 돕는 어플리케이션 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|PM|2024.12.20-2024.12.21|https://github.com/imgyeongx-x/Festimap|
 |산재판례 요약 서비스|법률 비전문가인 산업재해 당사자를 위한 쉽고 요약된 산업재해 판결문 제공 웹서비스&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Backend|2024.05.08-2024.07.26|
 
