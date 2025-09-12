@@ -45,8 +45,9 @@
 - 2020.03 ~ 세종대학교 소프트웨어학과 재학
 
 # Certificates
+- SQL Developer  _2025.09.19_
 - SW자산뱅크 자산등록증 1건 (ASSET_0012715)
-- AWS Cloud Practitioner
+- AWS Cloud Practitioner   _2024.06.13_
 
 <br>
 
