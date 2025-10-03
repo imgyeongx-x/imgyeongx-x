@@ -2,7 +2,8 @@
 안녕하세요. 백엔드 개발자 최나경입니다.
 
 ### 🖊️ Tech Blog
-<a href="https://velog.io/@imgyeongx-x"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@imgyeongx-x"> 
+<!-- <a href="https://velog.io/@imgyeongx-x"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@imgyeongx-x">  -->
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=tistory&theme=default)](https://xagyeongxx.tistory.com/)
 
 ### 🏷️ Contact
 <a href="mailto:nagyeongoiee@gmail.com">
