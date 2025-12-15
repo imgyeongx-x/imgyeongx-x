@@ -46,6 +46,7 @@
 - 2020.03 ~ 세종대학교 소프트웨어학과 재학
 
 # Certificates
+- DELF A2 (프랑스어 공인 인증 시험) _2025.11.22_
 - SQL Developer  _2025.09.19_
 - SW자산뱅크 자산등록증 1건 (ASSET_0012715)
 - AWS Cloud Practitioner   _2024.06.13_
