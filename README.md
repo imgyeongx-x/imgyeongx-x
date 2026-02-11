@@ -46,6 +46,7 @@
 - 2020.03 ~ 세종대학교 소프트웨어학과 재학
 
 # Certificates
+- OPIc IM2 _2026.02.04_
 - 정보처리기사  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; _2025.12.24_
 - DELF A2 (프랑스어 공인 인증 시험) &nbsp; &nbsp;  _2025.11.22_
 - SQL Developer  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp;              _2025.09.19_
