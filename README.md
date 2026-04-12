@@ -34,7 +34,7 @@
 |산재판례 요약 서비스|법률 비전문가인 산업재해 당사자를 위한 쉽고 요약된 산업재해 판결문 제공 웹서비스&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Backend|2024.05.08-2024.07.26|https://github.com/wonjinYi/sanjae-gemma
 
 # 🏫 Experience
-- 2025.03 Next.js 백엔드 개발자로 재직
+- 2025.03 ~ 2026.03 에듀테크 기업에서 Next.js 풀스택 개발자로 재직
 - 2025.02 지역대학간 SW캡스톤디자인 경진대회 최우수상
 - 2025.01 Global Connect IoT in Switzerland 참여
 - 2024.12 WE-MEET 프로젝트 (사물 인터넷 분야) 교육부 장관상
