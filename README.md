@@ -9,7 +9,7 @@
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=spring,java,nextjs,ts,mysql,postgresql,aws,github,postman,ubuntu" />
+<img src="https://skillicons.dev/icons?i=spring,java,nextjs,ts,mysql,postgresql,aws,vercel,github,notion,postman,ubuntu" />
 
 
 ### Experience
