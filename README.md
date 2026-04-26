@@ -34,7 +34,7 @@
 `AWS Cloud Practitioner` · `SQL Developer` · `정보처리기사` · `SW자산뱅크 자산등록증 1건`
 
 **Language**  
-`OPIc IM2` · `DELF A2`
+`OPIc IM2` · `DELF A2 (프랑스어)`
 
 
 ### GitHub Stats
